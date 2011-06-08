@@ -4,10 +4,10 @@
 static const char font[]            = "-*-terminus-medium-r-*-*-16-*-*-*-*-*-*-*";
 static const char normbordercolor[] = "#001014"; //"#333333"; //base 03
 static const char normbgcolor[]     = "#839496"; //"#101010"; //base 0
-static const char normfgcolor[]     = "#eee8d5"; //"#999999"; //base 2
+static const char normfgcolor[]     = "#fdf6e3"; //"#999999"; //base 2
 static const char selbordercolor[]  = "#586e75"; //"#224488"; //base 01 
 static const char selbgcolor[]      = "#073642"; //"#224488"; //base 02 //1
-static const char selfgcolor[]      = "#fdf6e3"; //"#ffffff"; //base 3
+static const char selfgcolor[]      = "#eee8d5"; //"#ffffff"; //base 3
 static const unsigned int borderpx  = 1;        /* border pixel of windows */
 static const unsigned int snap      = 32;       /* snap pixel */
 static const Bool showbar           = True;     /* False means no bar */
